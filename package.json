@@ -1,0 +1,19 @@
+{
+  "name": "fcc-file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "Proyek latihan freeCodeCamp",
+  "main": "index.js",
+  "repository": "https://github.com/binarstrike/fcc-file-metadata-microservice.git",
+  "author": "Binar Nugroho <binarnugroho775@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "private": false,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
